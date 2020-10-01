@@ -1,4 +1,4 @@
-# corssword_solver
+# corssword_solver_2020
 A small program in C to solve random crosswords with a given wordlist  
 This was my 1st year at university project in Intriduction of Programming
 
